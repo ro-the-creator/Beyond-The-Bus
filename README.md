@@ -11,7 +11,28 @@
 
 <div align='center'>
 
+***
+
+# 🎙️ *Public Interest Technology (PIT) PopUp* 🎙️
+
+#### November 11, 2025
+
+### A huge thanks to the CUNY PIT Lab for the opportunity to present our findings to the general public at the Oculus WTC! We met tons of amazing, like-minded people and discussed how our technical skills can solve real, civic issues.
+
+  <img src="https://github.com/user-attachments/assets/d6e85961-3e7a-4784-a8fb-1953bda192a4" width="49%" alt="team-pic" />
+  <img src="https://github.com/user-attachments/assets/8032cd5a-7bc7-4478-84ee-b672d989f48f" width="49%" alt="entrance" />
+
+### *You can check out our presentation on [YouTube](https://www.youtube.com/watch?v=AIM11-ueYqI), where we showcase our dashboard and resources to help uplift the Bronx communities!*
+
+</div>
+
+<div align='center'>
+
+***
+
 # 🎊 *Nova Alpha: Top 3 Datathon Team* 🎊
+
+#### September 26, 2025
 
 <img width="553" height="336" alt="datathon-win" src="https://github.com/user-attachments/assets/d58b4d0c-b1dd-47db-902c-23ed80083dc0" />
 
@@ -22,6 +43,8 @@
 #### *Also shoutout to our sibling team, [Nova Beta](https://github.com/ayemaqu/Nova-Beta-Datathon), for taking home 4th place!*
 
 </div>
+
+***
 
 <br>
 
