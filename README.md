@@ -22,7 +22,11 @@
   <img src="https://github.com/user-attachments/assets/d6e85961-3e7a-4784-a8fb-1953bda192a4" width="49%" alt="team-pic" />
   <img src="https://github.com/user-attachments/assets/8032cd5a-7bc7-4478-84ee-b672d989f48f" width="49%" alt="entrance" />
 
-### *You can check out our presentation on [YouTube](https://www.youtube.com/watch?v=AIM11-ueYqI), where we showcase our dashboard and resources to help uplift the Bronx communities!*
+### *You can check out our dashboard and presentation with the links below. In our dashboard, we expanded way beyond our original scope using a full data pipeline. Our ETL process fed into Tableau to create a geospatial map, annotated charts, and multiple interactive pages using navigation objects, allowing us to guide our audience through our story-driven analysis.*
+
+| Dashboard | YouTube |
+| :---: | :---: |
+| <a href="https://public.tableau.com/app/profile/rolando.mancilla.rojas/viz/BeyondTheBusMTABusACEAnalysis/1_HomePage#1" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Dashboard"/></a> | <a href="https://www.youtube.com/watch?v=AIM11-ueYqI" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video"/></a> |
 
 </div>
 
